@@ -108,7 +108,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 #fh5co-header #navbar li a {
   font-family: "Source Sans Pro", Arial, sans-serif;
-  color: rgba(255, 255, 255, 0.5);
+  color: #000000;
   position: relative;
 }
 #fh5co-header #navbar li a span {
@@ -150,7 +150,7 @@ h1, h2, h3, h4, h5, h6 {
 #fh5co-header #navbar li.active a {
   background: transparent;
   background: none;
-  color: #000000;
+  color: #fff;
 }
 #fh5co-header #navbar li.active a span:before {
   visibility: visible;
