@@ -1044,7 +1044,7 @@ h1, h2, h3, h4, h5, h6 {
   border-bottom: 1px solid white;
 }
 .owl-carousel-fullwidth .item .fh5co-owl-text .fh5co-lead, .owl-carousel-fullwidth .item .fh5co-owl-text .fh5co-lead-2, .owl-carousel-fullwidth .item .fh5co-owl-text .fh5co-sub-lead {
-  color: #000;
+  color: #000000;
   margin: 0;
   padding: 0;
 }
@@ -1052,12 +1052,12 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 700;
   margin-bottom: 20px;
   margin-top: 0;
-  text-transform: uppercase;
+  text-transform: lowercase;
   letter-spacing: 1px;
-  color: #000;
+  color: #000000;
   font-size: 50px;
   line-height: 50px;
-  color: #000;
+  color: #000000;
 }
 @media screen and (max-width: 768px) {
   .owl-carousel-fullwidth .item .fh5co-owl-text .fh5co-lead {
