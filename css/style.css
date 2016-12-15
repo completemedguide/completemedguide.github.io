@@ -150,7 +150,7 @@ h1, h2, h3, h4, h5, h6 {
 #fh5co-header #navbar li.active a {
   background: transparent;
   background: none;
-  color: #fff;
+  color: #000000;
 }
 #fh5co-header #navbar li.active a span:before {
   visibility: visible;
