@@ -1057,7 +1057,7 @@ h1, h2, h3, h4, h5, h6 {
   color: #000;
   font-size: 50px;
   line-height: 50px;
-  color: #fff;
+  color: #000;
 }
 @media screen and (max-width: 768px) {
   .owl-carousel-fullwidth .item .fh5co-owl-text .fh5co-lead {
