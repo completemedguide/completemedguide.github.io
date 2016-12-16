@@ -262,7 +262,7 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 .section-heading h3 {
-  font-weight: 300;
+  font-weight: 100;
   line-height: 1.5;
   color: #929292;
 }
@@ -777,7 +777,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 .btn:hover, .btn:active, .btn:focus {
   background: #393e46 !important;
-  color: #fff;
+  color: #000;
   outline: none !important;
 }
 .btn.btn-default:hover, .btn.btn-default:focus, .btn.btn-default:active {

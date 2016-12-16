@@ -24,13 +24,13 @@ body {
 }
 
 a {
-  color: #6173f4;
+  color: #007cc9;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s;
 }
 a:hover, a:active, a:focus {
-  color: #6173f4;
+  color: #007cc9;
   outline: none;
 }
 
@@ -44,7 +44,7 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 400;
 }
 
-::-webkit-selection {
+/*::-webkit-selection {
   color: #818892;
   background: #f9f6f0;
 }
@@ -58,7 +58,7 @@ h1, h2, h3, h4, h5, h6 {
   color: #818892;
   background: #f9f6f0;
 }
-
+*/
 #fh5co-header {
   position: absolute;
   z-index: 99;
@@ -77,7 +77,7 @@ h1, h2, h3, h4, h5, h6 {
     box-shadow: 0 0 9px 0 rgba(0, 0, 0, 0.1);
   }
   #fh5co-header .navbar-brand {
-    color: #6173f4 !important;
+    color: #007cc9 !important;
   }
   #fh5co-header #navbar li a {
     color: rgba(0, 0, 0, 0.5) !important;
@@ -86,7 +86,7 @@ h1, h2, h3, h4, h5, h6 {
     transition: 0.3s;
   }
   #fh5co-header #navbar li a:hover {
-    color: #6173f4 !important;
+    color: #007cc9 !important;
   }
   #fh5co-header #navbar li a span:before {
     background: transparent !important;
@@ -94,7 +94,7 @@ h1, h2, h3, h4, h5, h6 {
   #fh5co-header #navbar li.active a {
     background: transparent;
     background: none;
-    color: #6173f4 !important;
+    color: #007cc9 !important;
   }
   #fh5co-header #navbar li.active a span:before {
     visibility: visible;
@@ -123,7 +123,7 @@ h1, h2, h3, h4, h5, h6 {
   height: 2px;
   bottom: 0;
   left: 0;
-  background-color: #6173f4;
+  background-color: #007cc9;
   visibility: hidden;
   -webkit-transform: scaleX(0);
   -moz-transform: scaleX(0);
@@ -163,7 +163,7 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 30px;
   font-weight: 700;
   padding-left: 0;
-  color: #000000;
+  color: #007cc9;
 }
 #fh5co-header.navbar-fixed-top {
   position: fixed !important;
@@ -176,7 +176,7 @@ h1, h2, h3, h4, h5, h6 {
   top: 0;
 }
 #fh5co-header.navbar-fixed-top .navbar-brand {
-  color: #6173f4;
+  color: #007cc9;
 }
 #fh5co-header.navbar-fixed-top #navbar li a {
   color: rgba(0, 0, 0, 0.5);
@@ -185,12 +185,12 @@ h1, h2, h3, h4, h5, h6 {
   transition: 0.3s;
 }
 #fh5co-header.navbar-fixed-top #navbar li a:hover {
-  color: #6173f4;
+  color: #007cc9;
 }
 #fh5co-header.navbar-fixed-top #navbar li.active a {
   background: transparent;
   background: none;
-  color: #6173f4;
+  color: #007cc9;
 }
 #fh5co-header.navbar-fixed-top #navbar li.active a span:before {
   visibility: visible;
@@ -219,7 +219,7 @@ h1, h2, h3, h4, h5, h6 {
   color: #adadad;
 }
 #fh5co-header .navbar-default .brand-slogan em {
-  color: #6173f4;
+  color: #007cc9;
   font-style: normal;
 }
 #fh5co-header a {
@@ -231,14 +231,14 @@ h1, h2, h3, h4, h5, h6 {
 .section-heading {
   float: left;
   width: 100%;
-  padding-bottom: 50px;
-  margin-bottom: 50px;
+  padding-bottom: 30px;
+  margin-bottom: 30px;
   clear: both;
 }
 .section-heading h2 {
   font-size: 50px;
-  font-weight: 300;
-  color: #444;
+  font-weight: 500;
+  color: #000;
   text-transform: uppercase;
   position: relative;
   display: block;
@@ -251,7 +251,7 @@ h1, h2, h3, h4, h5, h6 {
   display: block;
   width: 80px;
   height: 2px;
-  background: #6173f4;
+  background: #007cc9;
   left: 50%;
   margin-left: -40px;
   bottom: 0;
@@ -264,7 +264,7 @@ h1, h2, h3, h4, h5, h6 {
 .section-heading h3 {
   font-weight: 300;
   line-height: 1.5;
-  color: #929292;
+  color: #000;
 }
 @media screen and (max-width: 768px) {
   .section-heading h3 {
@@ -285,7 +285,7 @@ h1, h2, h3, h4, h5, h6 {
 #fh5co-testimonials,
 #fh5co-pricing,
 #fh5co-press {
-  padding: 7em 0;
+  padding: 3em 0;
 }
 @media screen and (max-width: 480px) {
   #fh5co-our-services,
@@ -299,7 +299,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #fh5co-testimonials {
-  background: #6173f4;
+  background: #F4F4F4;
 }
 #fh5co-testimonials .section-heading h2 {
   color: white;
@@ -354,7 +354,7 @@ h1, h2, h3, h4, h5, h6 {
   width: 56px;
   height: 56px;
   margin-top: -30px;
-  background: #6173f4;
+  background: #007cc9;
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
   -ms-border-radius: 50%;
@@ -391,7 +391,7 @@ h1, h2, h3, h4, h5, h6 {
   position: relative;
 }
 #fh5co-pricing .price-box.popular {
-  border: 2px solid #6173f4;
+  border: 2px solid #007cc9;
 }
 #fh5co-pricing .price-box.popular .popular-text {
   top: 0;
@@ -400,7 +400,7 @@ h1, h2, h3, h4, h5, h6 {
   margin-top: -2em;
   position: absolute;
   padding: 4px 20px;
-  background: #6173f4;
+  background: #007cc9;
   color: #fff;
   -webkit-border-radius: 4px;
   -moz-border-radius: 4px;
@@ -414,7 +414,7 @@ h1, h2, h3, h4, h5, h6 {
   left: 50%;
   margin-left: -10px;
   border-top: 10px solid black;
-  border-top-color: #6173f4;
+  border-top-color: #007cc9;
   border-left: 10px solid transparent;
   border-right: 10px solid transparent;
 }
@@ -508,7 +508,7 @@ h1, h2, h3, h4, h5, h6 {
   background: #2fc5cc;
 }
 #fh5co-our-services .box .icon.colored-6 {
-  background: #6173f4;
+  background: #007cc9;
 }
 #fh5co-our-services .box .step-number {
   font-size: 16px;
@@ -528,7 +528,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #fh5co-features {
-  padding: 7em 0;
+  padding: 5em 0;
 }
 @media screen and (max-width: 768px) {
   #fh5co-features {
@@ -545,7 +545,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 #fh5co-features .fh5co-service .fh5co-icon i {
   font-size: 40px;
-  color: #6173f4;
+  color: #007cc9;
 }
 #fh5co-features .fh5co-service .fh5co-desc {
   width: 80%;
@@ -608,7 +608,7 @@ h1, h2, h3, h4, h5, h6 {
   bottom: 0;
   height: 2px;
   width: 30px;
-  background: #6173f4;
+  background: #007cc9;
 }
 #fh5co-press .fh5co-press-item .fh5co-press-img {
   position: absolute;
@@ -634,7 +634,7 @@ h1, h2, h3, h4, h5, h6 {
   text-decoration: none;
 }
 .fh5co-nav-toggle.active i::before, .fh5co-nav-toggle.active i::after {
-  background: #6173f4;
+  background: #007cc9;
 }
 .fh5co-nav-toggle:hover, .fh5co-nav-toggle:focus, .fh5co-nav-toggle:active {
   outline: none;
@@ -648,18 +648,18 @@ h1, h2, h3, h4, h5, h6 {
   *display: inline;
   width: 25px;
   height: 3px;
-  color: #6173f4;
+  color: #007cc9;
   font: bold 14px/.4 Helvetica;
   text-transform: uppercase;
   text-indent: -55px;
-  background: #6173f4;
+  background: #007cc9;
   transition: all .2s ease-out;
 }
 .fh5co-nav-toggle i::before, .fh5co-nav-toggle i::after {
   content: '';
   width: 25px;
   height: 3px;
-  background: #6173f4;
+  background: #007cc9;
   position: absolute;
   left: 0;
   -webkit-transition: 0.2s;
@@ -773,10 +773,10 @@ h1, h2, h3, h4, h5, h6 {
 }
 .btn.btn-primary:hover, .btn.btn-primary:active, .btn.btn-primary:focus {
   box-shadow: none;
-  background: #6173f4;
+  background: #007cc9;
 }
 .btn:hover, .btn:active, .btn:focus {
-  background: #393e46 !important;
+  background: #025D95 !important;
   color: #fff;
   outline: none !important;
 }
@@ -813,11 +813,11 @@ h1, h2, h3, h4, h5, h6 {
   border-bottom: none;
 }
 .social li a.social-box {
-  background: #6173f4;
+  background: #007cc9;
   color: #fff;
 }
 .social li a.social-circle {
-  background: #6173f4;
+  background: #007cc9;
   color: #fff;
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
@@ -828,11 +828,11 @@ h1, h2, h3, h4, h5, h6 {
   background: #393e46 !important;
 }
 .social.social-box a {
-  background: #6173f4;
+  background: #007cc9;
   color: #fff;
 }
 .social.social-circle a {
-  background: #6173f4;
+  background: #007cc9;
   color: #fff;
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
@@ -850,8 +850,8 @@ h1, h2, h3, h4, h5, h6 {
   opacity: 1;
 }
 .owl-carousel .btn-primary:hover, .owl-carousel .btn-primary:focus, .owl-carousel .btn-primary:active {
-  background: transparent !important;
-  border: 2px solid #fff !important;
+  background: #025D95 !important;
+  border: 2px solid #0065A4 !important;
 }
 
 .owl-carousel .owl-controls,
@@ -877,7 +877,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 .owl-carousel .owl-controls .owl-nav .owl-next i:before,
 .owl-carousel .owl-controls .owl-nav .owl-prev i:before {
-  color: rgba(255, 255, 255, 0.5);
+  color: grey;
 }
 
 .owl-carousel-posts .owl-controls .owl-nav .owl-next,
@@ -892,7 +892,7 @@ h1, h2, h3, h4, h5, h6 {
   right: 10px;
 }
 .owl-carousel .owl-controls .owl-nav .owl-next:hover i:before {
-  color: white;
+  color: grey;
 }
 
 .owl-carousel .owl-controls .owl-nav .owl-prev {
@@ -902,7 +902,7 @@ h1, h2, h3, h4, h5, h6 {
   left: 10px;
 }
 .owl-carousel .owl-controls .owl-nav .owl-prev:hover i:before {
-  color: white;
+  color: grey;
 }
 
 .owl-carousel-posts .owl-controls .owl-nav .owl-next i,
@@ -957,7 +957,7 @@ h1, h2, h3, h4, h5, h6 {
 .owl-theme .owl-dots .owl-dot span {
   width: 10px;
   height: 10px;
-  background: rgba(255, 255, 255, 0.2);
+  background: grey;
   -webkit-transition: 0.2s;
   -o-transition: 0.2s;
   transition: 0.2s;
@@ -971,7 +971,7 @@ h1, h2, h3, h4, h5, h6 {
 .owl-theme .owl-dots .owl-dot.active span, .owl-theme .owl-dots .owl-dot:hover span {
   background: white;
   background: transparent;
-  border: 2px solid #fff;
+  border: 2px solid #000;
 }
 
 .owl-carousel-fullwidth .item, .owl-carousel-fullwidth .fh5co-owl-text-wrap {
@@ -1015,6 +1015,7 @@ h1, h2, h3, h4, h5, h6 {
   text-align: right;
   position: relative;
   bottom: -12em;
+  width: 150%;
 }
 @media screen and (max-width: 768px) {
   .owl-carousel-fullwidth .item .iphone-image .iphone {
@@ -1023,6 +1024,7 @@ h1, h2, h3, h4, h5, h6 {
     float: none !important;
     margin: 0 auto;
     display: block;
+    Width: 100%;
   }
 }
 .owl-carousel-fullwidth .item .iphone-image .iphone img {
@@ -1044,7 +1046,7 @@ h1, h2, h3, h4, h5, h6 {
   border-bottom: 1px solid white;
 }
 .owl-carousel-fullwidth .item .fh5co-owl-text .fh5co-lead, .owl-carousel-fullwidth .item .fh5co-owl-text .fh5co-lead-2, .owl-carousel-fullwidth .item .fh5co-owl-text .fh5co-sub-lead {
-  color: #000000;
+  color: #000;
   margin: 0;
   padding: 0;
 }
@@ -1052,12 +1054,12 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 400;
   margin-bottom: 20px;
   margin-top: 0;
-  text-transform: lowercase;
+  text-transform: titlecase;
   letter-spacing: 1px;
-  color: #000000;
+  color: #000;
   font-size: 50px;
   line-height: 50px;
-  color: #000000;
+  color: #000;
 }
 @media screen and (max-width: 768px) {
   .owl-carousel-fullwidth .item .fh5co-owl-text .fh5co-lead {
@@ -1095,11 +1097,11 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .row-bottom-padded-lg {
-  padding-bottom: 7em;
+  padding-bottom: 1em;
 }
 @media screen and (max-width: 768px) {
   .row-bottom-padded-lg {
-    padding-bottom: 2em;
+    padding-bottom: 1em;
   }
 }
 
@@ -1113,11 +1115,11 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .row-bottom-padded-sm {
-  padding-bottom: 2em;
+  padding-bottom: 1em;
 }
 @media screen and (max-width: 768px) {
   .row-bottom-padded-sm {
-    padding-bottom: 2em;
+    padding-bottom: 1em;
   }
 }
 
