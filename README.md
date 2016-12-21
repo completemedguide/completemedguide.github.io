@@ -1,4 +1,4 @@
-# [The UK Medical School Admissions Guide](www.completemedguide.com)
+# [The UK Medical School Admissions Guide](http://www.completemedguide.com/)
 The top guide for UK medical school admissions.
 
 What is it?
@@ -7,7 +7,7 @@ A guide written for students who want to go to medical school in the UK. It incl
 
 What's included?
 -
-Here's a selection of what you'll find in the guide. Check out the [website](www.completemedguide.com) for a free sample with more details.
+Here's a selection of what you'll find in the guide. Check out the [website](http://www.completemedguide.com/) for a free sample with more details.
 * Full UKCAT Guide
 * Full BMAT Guide
 * Detailed Interview Advice
