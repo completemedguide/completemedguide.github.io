@@ -7,7 +7,7 @@ A guide written for students who want to go to medical school in the UK. It incl
 
 What's included?
 -
-Here's a selection of what you'll find in the guide. Check out the [website](http://www.completemedguide.com/) for a free sample with more details.
+Here's a selection of what you'll find in the guide. Check out the [website](http://www.completemedguide.com/) for a free sample and more details.
 * Full UKCAT Guide
 * Full BMAT Guide
 * Detailed Interview Advice
