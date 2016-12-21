@@ -1,4 +1,4 @@
-# The Complete Med Guide
+# The UK Medical School Admissions Guide
 www.completemedguide.com
 The top guide for UK medical school admissions.
 
@@ -8,16 +8,16 @@ A guide written for students who want to go to medical school in the UK. It incl
 
 What's included?
 -
-*Full UKCAT Guide
-*Full BMAT Guide
-*Detailed Interview Advice
-*60+ Answered Interview Questions
-*Personal Statement Guide
-*Full Work Experience Guide
-*How to Pick Universities
-*Detailed Steps to Get an Offer
-*A Guide to the NHS
-*Medical Ethics Summary
-*Full GAMSAT Guide
-*3 GAMSAT Study Plans
-*Fully Graduate Tailored
+* Full UKCAT Guide
+* Full BMAT Guide
+* Detailed Interview Advice
+* 60+ Answered Interview Questions
+* Personal Statement Guide
+* Full Work Experience Guide
+* How to Pick Universities
+* Detailed Steps to Get an Offer
+* A Guide to the NHS
+* Medical Ethics Summary
+* Full GAMSAT Guide
+* 3 GAMSAT Study Plans
+* Fully Graduate Tailored
