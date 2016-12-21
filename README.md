@@ -11,10 +11,11 @@ Here's a selection of what you'll find in the guide. Check out the [website](htt
 * Full UKCAT Guide
 * Full BMAT Guide
 * Detailed Interview Advice
-* 60+ Answered Interview Questions
-* Personal Statement Guide
+* 60+ Answered Medical School Interview Questions
+* Personal Statement Guide (with critiqued examples)
 * Full Work Experience Guide
 * How to Pick Universities
+* Medical School Entrance Requirements
 * Detailed Steps to Get an Offer
 * A Guide to the NHS
 * Medical Ethics Summary
