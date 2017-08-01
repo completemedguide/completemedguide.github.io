@@ -25,4 +25,4 @@ Here's a selection of what you'll find in the guide. Check out the [website](htt
 
 Where Can I download it?
 -
-Visit www.completemedguide.com. The 2018 edition will be released in time for the next admissions cycle.
+Visit www.completemedguide.com. The 2018 edition is currently available for download.
